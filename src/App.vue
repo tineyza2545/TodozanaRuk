@@ -10,7 +10,6 @@
           transition="scale-transition"
           width="40"
           height="45"
-          
         />
 
         <h1>Tiney</h1>

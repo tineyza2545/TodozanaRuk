@@ -1,5 +1,5 @@
 <template>
-  <v-form v-model="valid">
+  <v-form v-model="valid" class="mt-10 mb-10">
     <v-row>
       <v-col cols="12" md="4">
         <v-select
