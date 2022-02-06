@@ -33,7 +33,7 @@
       class="d-flex align-start flex-column"
       style="position: fixed; bottom: 0"
     >
-      <h1 class="red--text">
+      <h2 class="red--text">
         **หมายเหตุ : กรุณากรอกข้อมูลให้ครบถ้วน (ระบบขัดข้องแจ้ง)
         <img
           class="mx-2"
@@ -41,7 +41,7 @@
           src="../assets/asd.png"
           alt=""
         />
-      </h1>
+      </h2>
     </div>
     <div class="d-flex align-end flex-column">
       <img
